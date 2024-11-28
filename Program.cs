@@ -16,7 +16,7 @@
                 {
                     Console.WriteLine(x + " Fizz");
                 }
-                else if (x % 5 == 0 && x % 5 == 0)
+                else if (x % 5 == 0)
                 {
                     Console.WriteLine(x + " Buzz");
                 }
